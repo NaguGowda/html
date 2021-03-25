@@ -1,2 +1,2 @@
-# html
-practices of html
+# php
+practices of multy query
